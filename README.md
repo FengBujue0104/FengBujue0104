@@ -1,4 +1,4 @@
-## Hi there 👋
+## OK brothers, all eyes on me, look at me, look at me, I have an announcement
 
 <!--
 **FengBujue0104/FengBujue0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/FengBujue0104)](https://githubroast.dev/u/FengBujue0104)
-[![GitHub Roast](https://githubroast.dev/api/card/FengBujue0104)](https://githubroast.dev/u/FengBujue0104)
+
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/fengbujue0104)](https://ghfind.com/u/fengbujue0104?ref=badge)
+[![GitHub Roast](https://ghfind.com/api/card/fengbujue0104?theme=light&qr=1)](https://ghfind.com/u/fengbujue0104?ref=badge)
