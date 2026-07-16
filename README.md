@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**15948707537/15948707537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FengBujue0104/FengBujue0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/15948707537)](https://githubroast.dev/u/15948707537)
-[![GitHub Roast](https://githubroast.dev/api/card/15948707537)](https://githubroast.dev/u/15948707537)
+[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/FengBujue0104)](https://githubroast.dev/u/FengBujue0104)
+[![GitHub Roast](https://githubroast.dev/api/card/FengBujue0104)](https://githubroast.dev/u/FengBujue0104)
