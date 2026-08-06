@@ -16,4 +16,21 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Roast 评分徽章](https://ghfind.com/api/badge/fengbujue0104)](https://ghfind.com/u/fengbujue0104?ref=badge)
-[![GitHub Roast](https://ghfind.com/api/card/fengbujue0104?theme=light&qr=1)](https://ghfind.com/u/fengbujue0104?ref=badge)
+
+<a href="https://ghfind.com/u/fengbujue0104?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/fengbujue0104?variant=radar&theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/fengbujue0104?variant=radar&theme=light" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
+
+
+
+<a href="https://ghfind.com/u/fengbujue0104?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/fengbujue0104?variant=radar&theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/fengbujue0104?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
+
+<a href="https://ghfind.com/u/fengbujue0104?ref=badge"><img src="https://ghfind.com/api/card/fengbujue0104?theme=light&qr=1" alt="GitHub Roast" width="600" /></a>
