@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![GitHub Roast 评分徽章](https://ghfind.com/api/badge/fengbujue0104?lang=zh)](https://ghfind.com/u/fengbujue0104?ref=badge)
 
-[![GitHub Roast](https://ghfind.com/api/card/fengbujue0104?theme=light&qr=1)](https://ghfind.com/u/fengbujue0104?ref=badge)
+[![GitHub Roast](https://ghfind.com/api/card/fengbujue0104?theme=light)](https://ghfind.com/u/fengbujue0104?ref=badge)
